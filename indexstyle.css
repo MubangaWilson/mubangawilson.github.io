@@ -1,0 +1,167 @@
+html {height: 100%
+ 
+
+}
+
+body {background-color: rgba(208, 255, 0, 0.514);
+    background-image: url(images/background.jpg);
+      
+}
+
+
+
+
+.boxl {background-color: rgba(0, 0, 0, 0.575);
+    backface-visibility: 2px;
+    width: 150px; 
+    height: auto;
+    position: fixed;
+    top: 0px;
+left: 8px;
+ 
+ border: 5px solid #888b51;
+size: 50px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+
+
+}
+
+
+header { background-color: rgba(214, 34, 18, 0.904);
+
+
+height: 100px;
+width: 1024px;
+color: black;
+font-size:20px;
+text-align: left;
+}
+.box1 {width: 130px;
+    height: 92px;
+    position: fixed;
+    top: 0px;
+right: 0px;
+padding-right: 80px;
+ width: 150px;
+ border: 1px solid #888b51;
+size: 50px;
+
+}
+
+
+
+
+.mub {color: white;}
+nav {background-color: rgba(5, 104, 10, 0.979);
+    height: 150px;
+    width: 1024px;
+    text-align: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-right: 10px;
+ 
+    color: rgb(132, 143, 235);
+    font-size:25px;
+  
+}
+
+
+main {
+    background-image:url(images/W.jpg);
+    opacity: 0.6;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 500px;
+    width:1024px;
+    margin-left: auto;
+margin-right: auto ;
+color: yellow;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;}
+
+
+.youtube {width: 200px; 
+    height: auto;
+    position: fixed;
+    top: 130px;
+    padding-right: 30px;
+right: 0px;}
+
+.youtube1 {width: 200px; 
+    height: auto;
+    position: fixed;
+    top: 130px;
+    padding-right: 30px;
+right: 0px;}
+
+.youtube2 {width: 200px; 
+    height: auto;
+    position: fixed;
+    top: 130px;
+    padding-right: 30px;
+right: 0px;}
+
+.document {background-color: rgba(0, 0, 0, 0.575);
+    backface-visibility: 2px;
+    width: 200px; 
+    height: auto;
+    left: 0;
+    position: fixed;
+    top: 100px;
+left: 8px;
+ 
+ border: 10px solid #ff0000;
+size: 50px;
+padding-top: 10px;
+padding-bottom: 10px;}
+
+
+
+
+
+
+ 
+
+ footer {background-color: rgba(1, 4, 12, 0.493);
+    height:100px;
+    width: 1024px;
+    color: rgb(11, 11, 253);
+    text-align: center;
+font-size: 25px;
+font-weight: 40px;
+
+  
+  }
+  
+  .container {  
+      margin-left: auto;
+    margin-right: auto ;
+    width: 1024px;
+}
+a {color: rgb(229, 255, 0);
+    /*text decoration*/
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+    
+}
+header a {text-decoration: noone;}
+.no_underline {text-decoration :none;}
+
+nav1 {margin: auto ;
+    width: 1024px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom:10px;
+    padding-top: 10px;
+
+    font-size: 15px;
+    background-color: rgba(6, 7, 1, 0.979);
+   
+}
+  
